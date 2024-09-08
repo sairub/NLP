@@ -1,0 +1,40 @@
+It is remarkable that multilayered integrated circuits are being manufactured successfully
+High-resolution coherent diffractive imaging technique can create three-dimensional images of integrated circuits
+The active transistor layer is at the bottom while other layers mainly consist of metal interconnects
+The measured structure and design match perfectly
+The colors of the wires in the schematic are the same as those of the wires used in the 3D rendering
+The slice contains the transistor layer where we can identify repetitive structures
+The tomographic imaging geometry required the extraction of cylindrical pillars from the chips that are initially flat extended objects
+Xray ptychography promises to solve the chip inspection problem
+This would enable optimization of production processes
+There is a perfect match between the design and measured layers
+Xray tomography is an invaluable tool in biomedical imaging
+Most frequently such information is based on Xray attenuation
+We expect this high-resolution tomography technique to provide invaluable information for both the life and material sciences
+The transistor map is converted into the actual IC design
+Downside of the high penetration power of Xrays is their low absorption contrast
+The associated length scales cover a wide range from centimeters down to nanometers
+Unlike in traditional Xray microscopy the recovered images are complex-valued map
+The reconstruction does not rely on assumptions of homogeneity, negligible absorption, or small phase advance
+We report the implementation of ptychographic Xray computed tomography
+The resulting difference in signal-to-noise ratio is apparent in the line profiles
+All measurements were performed at a photon energy 
+The integrated micromanipulator was used to mount the sample on the holder for the tomography measurement
+The measurement conditions were identical to those for the tomographic measurement of the pillarshaped Intel sample 
+The laminography measurement geometry combined with foreseeable improvements in Xray source
+The small blue circles correspond to the scanning points of the ptychographic scan
+One can also clearly identify the transistor gates, but we cannot distinguish between p and n type transistors
+The repetitive structures become even more evident when looking at slices
+The interconnect layers are vertically connected to each other by vias with hollow interiors
+Our experiments represent a major advance in chip inspection and reverse engineering
+There is a growing number of applications which require both quantitative and sensitive investigation methods
+All measurements were performed at a photon energy
+The integrated micromanipulator was used to mount the sample on the holder for the tomography measurement
+The measurement conditions were identical to those for the tomographic measurement of the pillar-shaped Intel sample 
+Detailed descriptions of ptychography can be found in a number of earlier publications
+Ptychography is a method that utilizes overlapping scanning areas to give high resolution reconstructions
+A specimen is illuminated with a finite and coherent incident wave called the probe
+The laminography measurement geometry combined with foreseeable improvements in X-ray source
+Coherent diffractive imaging provides high resolution images through computational reconstruction
+A complete dataset consists of a set of such diffraction patterns
+There is a perfect match between the design and measured layers.
